@@ -1,0 +1,10 @@
+2025-03-28 14:27:20,641 - ERROR - Model file not found: trained_models\diabetes_model.pkl
+2025-03-28 14:27:20,641 - ERROR - Model file not found: trained_models\heart_disease_model.pkl
+2025-03-28 14:27:20,642 - ERROR - Model file not found: trained_models\respiratory_disease_model.pkl
+2025-03-28 14:27:20,642 - ERROR - Model file not found: trained_models\blood_pressure_model.pkl
+2025-03-28 14:27:20,643 - CRITICAL - Failed to load models: No models were successfully loaded
+2025-03-28 14:43:24,215 - ERROR - Model file not found: trained_models\diabetes_model.pkl
+2025-03-28 14:43:24,216 - ERROR - Model file not found: trained_models\heart_disease_model.pkl
+2025-03-28 14:43:24,217 - ERROR - Model file not found: trained_models\respiratory_disease_model.pkl
+2025-03-28 14:43:24,219 - ERROR - Model file not found: trained_models\blood_pressure_model.pkl
+2025-03-28 14:43:24,219 - CRITICAL - Failed to load models: No models were successfully loaded

@@ -1,0 +1,33 @@
+2025-01-29 22:51:14,892 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 22:51:14,892 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 22:51:14,895 - INFO -  * Restarting with stat
+2025-01-29 22:51:16,568 - WARNING -  * Debugger is active!
+2025-01-29 22:51:16,571 - INFO -  * Debugger PIN: 125-631-780
+2025-01-29 22:51:34,655 - INFO -  * Detected change in 'E:\\HealthRiskAI\\backend\\ml\\trained_models\\ml_server.py', reloading
+2025-01-29 22:51:34,811 - INFO -  * Restarting with stat
+2025-01-29 22:51:36,604 - WARNING -  * Debugger is active!
+2025-01-29 22:51:36,606 - INFO -  * Debugger PIN: 125-631-780
+2025-01-29 22:51:58,971 - INFO - 127.0.0.1 - - [29/Jan/2025 22:51:58] "GET / HTTP/1.1" 200 -
+2025-01-29 22:52:00,800 - INFO - 127.0.0.1 - - [29/Jan/2025 22:52:00] "GET / HTTP/1.1" 200 -
+2025-01-29 22:53:15,631 - INFO - 127.0.0.1 - - [29/Jan/2025 22:53:15] "GET / HTTP/1.1" 200 -
+2025-01-29 22:53:17,038 - INFO - 127.0.0.1 - - [29/Jan/2025 22:53:17] "GET / HTTP/1.1" 200 -
+2025-01-29 22:53:37,073 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 22:53:37,073 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 22:53:37,076 - INFO -  * Restarting with stat
+2025-01-29 22:53:38,761 - WARNING -  * Debugger is active!
+2025-01-29 22:53:38,764 - INFO -  * Debugger PIN: 125-631-780
+2025-01-29 22:57:20,328 - INFO - 127.0.0.1 - - [29/Jan/2025 22:57:20] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-01-29 22:57:31,952 - INFO - 127.0.0.1 - - [29/Jan/2025 22:57:31] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-01-29 22:57:45,141 - INFO - 127.0.0.1 - - [29/Jan/2025 22:57:45] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-01-29 22:57:50,192 - INFO - 127.0.0.1 - - [29/Jan/2025 22:57:50] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-01-29 22:58:00,466 - INFO - 127.0.0.1 - - [29/Jan/2025 22:58:00] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-01-29 23:01:04,145 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 23:01:04,145 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 23:01:04,146 - INFO -  * Restarting with stat
+2025-01-29 23:01:05,825 - WARNING -  * Debugger is active!
+2025-01-29 23:01:05,827 - INFO -  * Debugger PIN: 125-631-780
+2025-01-29 23:03:30,534 - INFO -  * Detected change in 'E:\\HealthRiskAI\\backend\\ml\\trained_models\\ml_server.py', reloading
+2025-01-29 23:03:30,730 - INFO -  * Restarting with stat
